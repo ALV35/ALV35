@@ -26,7 +26,7 @@ I graduated from a technical computer school that I finished this year.<br>I'm a
 [![](https://visitcount.itsvg.in/api?id=ALV35&icon=5&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ALV3S) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/https://www.buymeacoffee.com/ALV3S](https://www.buymeacoffee.com/ALV3S)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># ALV35
