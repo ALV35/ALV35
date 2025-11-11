@@ -1,5 +1,5 @@
 # 💫 About Me:
-I graduated from a technical computer school that I finished this year.<br>I'm a junior developer and I know a little about some languages ​​like:<br>Python, Java, JS, Node.js, Solidity, UX/UI, SQL and some frameworks<br>I am looking for a job as an intern in tech companies<br>I have as a hobby to make some Python programs involved with cybersecurity<br>Thanks for visit my profile!! :) 
+I graduated from a technical computer school that I finished in 2022.<br>I'm a junior developer and I know a little about some languages ​​like:<br>Python, Java, JS, Node.js, Solidity, UX/UI, SQL and some frameworks<br> <br>I have as a hobby to make some Python programs involved with cybersecurity<br>Thanks for visit my profile!! :) 
 
 
 ## 🌐 Socials:
